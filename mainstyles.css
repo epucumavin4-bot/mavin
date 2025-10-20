@@ -15,4 +15,15 @@ body{
 .img{
     width: 150px;
     height: auto;
+} 
+. button {
+background -color: orange;
+padding:15px;
+height:10px;
+color:red;
+width:10px;
+
+
+
+
 }
